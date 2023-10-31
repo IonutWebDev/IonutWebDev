@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ionut.V
+- 👋 Hi, I’m Ionut!
 
 - 👀 I’m interested mostly in Web Development, but programming in general. It's my passion since High-School. I have a big desire to improve my skills and I am interested in any collaboration that gives me the opportunity to do so!
 
@@ -9,6 +9,5 @@ Responsive Web Design certification: https://freecodecamp.org/certification/ionu
 
 - 💞️ I’m looking to collaborate with passionate Developers. Looking forward for job offers also.
 
-- 📫 You can reach me on:
-LinkedIn: https://www.linkedin.com/in/ionut-vinte-a07624226
-Codepen: https://codepen.io/CamperIonut
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ionut-vinte-a07624226
+- 🛠️ You can also see my work on Codepen: https://codepen.io/CamperIonut
