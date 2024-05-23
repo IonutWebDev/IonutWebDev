@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Ionut!
 
-- 👀 I’m interested mostly in Web Development, but programming in general. It's my passion since High-School. I have a big desire to improve my skills and I am interested in any collaboration that gives me the opportunity to do so!
-
-- 🌱 I’m currently learning to become a more skilled Frontend Developer by working in real projects with senior programmers, developing projects by myself (Check my work. I am continuously updating).
-I am currently skilled in #HTML #CSS #Bootstrap #Javascript #Git&Github. I have also learnt C++ for over 2 years and worked also with C and Python.
-I am also improving my skills via Udemy and Freecodecamp courses. I am accomplishing some of their courses and earning certifications. You can check the credentials below.
-Responsive Web Design certification: https://freecodecamp.org/certification/ionutvinte/responsive-web-design
-
-- 💞️ I’m looking to collaborate with passionate Developers. Looking forward for job offers also.
+Here's some information about my skills:
+- 🌱 Driven by a passion for IT since high school, I excel in C, Python, JavaScript, HTML5, CSS3 and Bootstrap. My academic background in web development, coupled with hands-on experience,
+        equips me to thrive in both backend and frontend roles. In my current job, I lead the development and maintenance of automation scripts in Python, addressing departmental needs and ensuring project milestones were met.
+        I'm adept at analyzing requirements, crafting solutions, and collaborating effectively within multidisciplinary teams.
+        With a proactive problem-solving approach and a commitment to innovation, I'm poised to contribute to impactful projects in backend and frontend development roles.
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ionut-vinte-a07624226
 - 🛠️ You can also see my work on Codepen: https://codepen.io/CamperIonut
