@@ -7,4 +7,4 @@ Here's some information about my skills:
         With a proactive problem-solving approach and a commitment to innovation, I'm poised to contribute to impactful projects in backend and frontend development roles.
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ionut-vinte-a07624226
-- 🛠️ You can also see my work on Codepen: https://codepen.io/CamperIonut
+- 🛠️ You can also see on Codepen some of my work when I finished a course from FreeCodeCamp: https://codepen.io/CamperIonut
